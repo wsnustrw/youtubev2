@@ -17,27 +17,22 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'Cover', icon: <MusicNoteIcon />, },
-  { name: 'Indo Musik', icon: <MusicNoteIcon />, },
+  { name: 'Musik', icon: <MusicNoteIcon />, },
   { name: 'Teknologi', icon: <Memory />, },
   { name: 'Berita', icon: <Newspaper /> },
   { name: 'Edukasi', icon: <SchoolIcon />, },
-  { name: 'Berita Terbaru', icon: <FiberNew />, },
   { name: 'Film', icon: <OndemandVideoIcon />, },
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
-  { name: 'Sport', icon: <FitnessCenterIcon />, },
+  { name: 'Olahraga', icon: <FitnessCenterIcon />, },
   { name: 'Fashion', icon: <CheckroomIcon />, },
-  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
-  { name: 'Comedy', icon: <TheaterComedyIcon />, },
-  { name: 'Gym', icon: <FitnessCenterIcon />, },
-  { name: 'Crypto', icon: <DeveloperModeIcon />, },
+  { name: 'Kecantikan', icon: <FaceRetouchingNaturalIcon />, },
+  { name: 'Komedi', icon: <TheaterComedyIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
+export const demoChannelTitle = 'Wsnustrw';
 export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
